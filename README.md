@@ -1,8 +1,6 @@
 # Scrum Poker Planing
 
-The builded product is available at: http://teoscrumpoker.azurewebsites.net
-
-Used **Vue & Bulma**.
+**Vue & Bulma**
 
 ## Project
 ### Setup
